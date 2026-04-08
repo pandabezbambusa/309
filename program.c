@@ -2,6 +2,7 @@
 
 int main (){
   printf("Dobro dosli na povezivanje sa Git hubom\n");
-
-  return 0;
+ printf("Dobro dosli na povezivanje sa Git hubom\n");
+   printf("Dobro dosli na povezivanje sa Git hubom\n");
+  
 }
