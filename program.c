@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main (){
+int main (){ +
   printf("Dobro dosli na povezivanje sa Git hubom\n");
   printf("Dobro dosli na povezivanje sa Git hubom\n");
   printf("Dobro dosli na povezivanje sa Git hubom\n");
